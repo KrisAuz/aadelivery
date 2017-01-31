@@ -19,6 +19,13 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 .mdl-demo .mdl-layout__header-row {
   padding-left: 40px;
 }
